@@ -1,0 +1,13 @@
+/backend/.venv/
+/backend/polls.db
+/backend/__pycache__/
+/backend/*.pyc
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+.DS_Store
+.env
+.vscode/
